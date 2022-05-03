@@ -6,9 +6,6 @@
 ### <div align="center">I’m Develo, I’ve made programs and other things since 2018</div>  
   
 
-- 👬Friends with [@WorriedArrow](https://github.com/WorriedArrow)  
-  
-
 - ❓ Ask me anything **NOT** about Linux.  
   
 
