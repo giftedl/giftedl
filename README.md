@@ -1,8 +1,9 @@
 <p align="center"><img src="https://github.com/DeveloLongScript/DeveloLongScript/blob/main/Group%201%20(1).png?raw=true" /></p>
 
 ---
-
-A developer told to be a nerd. Usually commit to my own projects, not to others (though I do occasionally make PRs, which get canceled immediately)
+<p align="center">
+A young american developer told to be a nerd. Usually commit to my own projects, not to others (though I do occasionally make PRs, which get canceled immediately). Kinda have a boring life.
+</p>
 
 ## Skillset
 ### Frontend
