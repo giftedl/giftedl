@@ -1,10 +1,8 @@
-# It's me.
-Hey! I'm DeveloLongScript, a developer. I've started to code since 2018, starting with Java. (i know, it was super hard to start, i learned the hard way). I usually make my own projects, but occasionally commit to other projects.
+<p align="center"><img src="https://github.com/DeveloLongScript/DeveloLongScript/blob/main/Group%201%20(1).png?raw=true" /></p>
 
-## GitHub Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DeveloLongScript&show_icons=true&count_private=true&theme=dracula&hide_border=true" align="center" /></div>  
+---
 
-<br/> 
+A developer told to be a nerd. Usually commit to my own projects, not to others (though I do occasionally make PRs, which get canceled immediately)
 
 ## Skillset
 ### Frontend
