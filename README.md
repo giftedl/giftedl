@@ -2,7 +2,7 @@
 
 ---
 <p align="center">
-A young american developer told to be a nerd. Usually commit to my own projects, not to others (though I do occasionally make PRs, which get canceled immediately). Kinda have a boring life.
+A young american developer. Usually commit to my own projects, not to others (though I do occasionally make PRs).
 </p>
 
 ## Skillset
