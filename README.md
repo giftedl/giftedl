@@ -5,6 +5,8 @@
 A young american developer. Usually commit to my own projects, not to others (though I do occasionally make PRs).
 </p>
 
+**also im cleaning up so some of my repos might go bye bye cuz they are unnesscary and proven wrong.**
+
 ## Skillset
 ### Frontend
 <img src="https://github.com/intergrav/devins-badges/blob/v3/assets/cozy-minimal/built-with/javascript_64h.png?raw=true"/><img src="https://github.com/intergrav/devins-badges/blob/v3/assets/cozy-minimal/built-with/typescript_64h.png?raw=true"/>![cozy_64h](https://github.com/DeveloLongScript/DeveloLongScript/assets/52332868/405a961c-cf87-4c63-be6a-766f67902e3d)
