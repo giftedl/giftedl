@@ -5,7 +5,6 @@
 A young american developer. Usually commit to my own projects, not to others (though I do occasionally make PRs).
 </p>
 
-**also im cleaning up so some of my repos might go bye bye cuz they are unnesscary and proven wrong.**
 
 ## Skillset
 ### Frontend
