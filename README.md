@@ -5,6 +5,7 @@
 A young american developer. Usually commit to my own projects, not to others (though I do occasionally make PRs).
 </p>
 
+<p align="center"><img src="https://wakatime.com/share/@cbaff0dc-5808-47db-9156-ee90c6189199/5e563923-8b16-45b0-b1bd-e650640d3c17.png" /></p>
 
 ## Skillset
 ### Frontend
