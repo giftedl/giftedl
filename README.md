@@ -4,4 +4,5 @@
 
   javascript for life :heart:
 
+  need me? `@giftedly` on discord
 </div>
