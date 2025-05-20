@@ -2,7 +2,7 @@
 
   :sparkles: - *dev of mhsf & some other cool stuff*
 
-  javascript for life :heart:
+  typescript for life :heart:
 
   need me? `@giftedly` on discord
 </div>
