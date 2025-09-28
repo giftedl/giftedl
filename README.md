@@ -1,8 +1,3 @@
 <div align="center">
-
-  :sparkles: - *dev of mhsf & some other cool stuff*
-
-  typescript for life :heart:
-
-  need me? `@giftedly` on discord
+  <3 full stack/minecraft dev
 </div>
